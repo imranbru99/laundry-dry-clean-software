@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "laundry-dry-clean-software",
+  "description": "Laundry & Dry Clean Software — Services Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Laundry POS for tickets, item status, delivery routes, and customer accounts. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "services",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/laundry-dry-clean-software"
+}
